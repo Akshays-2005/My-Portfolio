@@ -38,7 +38,7 @@ My-Portfolio/
 │── README.md # Documentation
 
 
----
+```
 
 ## ⚡ How to Run Locally  
 1. Clone the repository:  
@@ -52,4 +52,5 @@ My-Portfolio/
 👨‍💻 Author
 
 #### Akshay S
+
 
