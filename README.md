@@ -37,7 +37,6 @@ My-Portfolio/
 │── contact.html # Contact page
 │── README.md # Documentation
 
-
 ```
 
 ## ⚡ How to Run Locally  
@@ -52,5 +51,6 @@ My-Portfolio/
 👨‍💻 Author
 
 #### Akshay S
+
 
 
