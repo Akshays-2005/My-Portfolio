@@ -26,7 +26,7 @@ It is built with modern frontend technologies and designed to be **clean, respon
 ---
 
 ## 📂 Project Structure 
----plaintext
+```plaintext
 My-Portfolio/
 │── images/
 │── index.html
@@ -34,7 +34,7 @@ My-Portfolio/
 │── script.js
 │── README.md 
 
----
+```
 
 ## ⚡ How to Run Locally  
 1. Clone the repository:  
@@ -48,6 +48,7 @@ My-Portfolio/
 👨‍💻 Author
 
 #### Akshay S
+
 
 
 
