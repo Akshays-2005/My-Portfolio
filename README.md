@@ -53,6 +53,7 @@ cd My-Portfolio
 Open index.html in your browser
 
 👨‍💻 Author
-# Akshay S
+### Akshay S
+
 
 
