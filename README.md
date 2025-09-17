@@ -26,7 +26,7 @@ It is built with modern frontend technologies and designed to be **clean, respon
 ---
 
 ## 📂 Project Structure 
----
+---plaintext
 My-Portfolio/
 │── images/
 │── index.html
@@ -48,6 +48,7 @@ My-Portfolio/
 👨‍💻 Author
 
 #### Akshay S
+
 
 
 
