@@ -53,10 +53,6 @@ cd My-Portfolio
 Open index.html in your browser
 
 👨‍💻 Author
-Akshay S
+# Akshay S
 
-Portfolio
 
-GitHub
-
-LinkedIn (replace with your actual link)
