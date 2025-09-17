@@ -26,18 +26,15 @@ It is built with modern frontend technologies and designed to be **clean, respon
 ---
 
 ## 📂 Project Structure 
-```plaintext
+---
 My-Portfolio/
-│── assets/ # Images, icons, and other static files
-│── css/ # Stylesheets
-│── js/ # JavaScript files
-│── index.html # Home page
-│── about.html # About page
-│── projects.html # Projects showcase
-│── contact.html # Contact page
-│── README.md # Documentation
+│── images/
+│── index.html
+│── style.css
+│── script.js
+│── README.md 
 
-```
+---
 
 ## ⚡ How to Run Locally  
 1. Clone the repository:  
@@ -51,6 +48,7 @@ My-Portfolio/
 👨‍💻 Author
 
 #### Akshay S
+
 
 
 
