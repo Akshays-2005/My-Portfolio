@@ -36,8 +36,6 @@ My-Portfolio/
 │── contact.html # Contact page
 │── README.md # Documentation
 
-yaml
-Copy code
 
 ---
 
@@ -45,15 +43,11 @@ Copy code
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Akshays-2005/My-Portfolio.git
-Navigate into the project:
-
-bash
-Copy code
-cd My-Portfolio
-Open index.html in your browser
+2. Navigate into the project:
+   ```bash
+   cd My-Portfolio
+3. Open index.html in your browser
 
 👨‍💻 Author
-### Akshay S
 
-
-
+#### Akshay S
